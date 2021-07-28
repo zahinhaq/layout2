@@ -1,0 +1,100 @@
+
+*{
+
+    margin: 0%;
+    
+    padding: 0%;
+    }
+
+    
+    .h{
+    color: white;
+    background-color: rgb(124, 149, 218);
+    text-align: center;
+    height: 100px;
+    }
+    
+    .b{
+    color: white;
+    background-color: rgb(99, 177, 177);
+    text-align: center;
+    height: 170px;
+    
+    }
+    
+    .content{ overflow: hidden;}
+    
+    .left{
+    color: white;
+    background-color: rgb(86, 96, 116);
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    float: left;
+    }
+    
+    .right{
+    background-color: cadetblue;
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    float:right ;
+    color: white;
+    }
+    
+    .sc{
+    overflow: hidden;
+    
+    
+    }
+    .long{
+    width: 75%;
+    background-color: rgb(41, 162, 243); text-align: center;
+    height: 200px;
+    float: left;
+    color: white;
+    }
+    .short{
+    width: 25%;
+    background-color: cornflowerblue;
+    height: 200px; text-align: center;
+    float: right;
+    color: white;
+    font-size: 10px;
+    }
+    
+    .client{ overflow: hidden;
+    text-align: center;
+    }
+    .one{  width: 25%;
+        height: 100px;
+    background-color: #F7E6AD;
+    float: left;
+    color: white;
+    }
+    .two{width: 25%;
+    height: 100px;
+    background-color: #F5FDB0;
+    float: left;
+    color: white;
+    }
+    .three{width: 25%;
+    height: 100px;
+    background-color: #BCFFB9;
+    float: left;
+    color: white;
+    
+    }
+    .four{width: 25%;
+    height: 100px;
+    background-color: #28FFBF;
+    float: left;
+    color: white;
+    }
+    
+    .f{
+    height: 100px;
+    background-color: rgb(11, 11, 68);
+    text-align: center;
+    color: white;
+    }
